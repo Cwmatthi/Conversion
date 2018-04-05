@@ -7,3 +7,12 @@ C:\Users\Cyberadmin\Desktop\C# Projects\NumberConversion\NumberConversion\obj\Re
 C:\Users\Cyberadmin\Desktop\C# Projects\NumberConversion\NumberConversion\obj\Release\NumberConversion.csproj.CoreCompileInputs.cache
 C:\Users\Cyberadmin\Desktop\C# Projects\NumberConversion\NumberConversion\obj\Release\NumberConversion.exe
 C:\Users\Cyberadmin\Desktop\C# Projects\NumberConversion\NumberConversion\obj\Release\NumberConversion.pdb
+C:\Users\Cyberadmin\Desktop\Conversion\NumberConversion\NumberConversion\bin\Release\NumberConversion.exe.config
+C:\Users\Cyberadmin\Desktop\Conversion\NumberConversion\NumberConversion\bin\Release\NumberConversion.exe
+C:\Users\Cyberadmin\Desktop\Conversion\NumberConversion\NumberConversion\bin\Release\NumberConversion.pdb
+C:\Users\Cyberadmin\Desktop\Conversion\NumberConversion\NumberConversion\obj\Release\NumberConversion.Form1.resources
+C:\Users\Cyberadmin\Desktop\Conversion\NumberConversion\NumberConversion\obj\Release\NumberConversion.Properties.Resources.resources
+C:\Users\Cyberadmin\Desktop\Conversion\NumberConversion\NumberConversion\obj\Release\NumberConversion.csproj.GenerateResource.Cache
+C:\Users\Cyberadmin\Desktop\Conversion\NumberConversion\NumberConversion\obj\Release\NumberConversion.csproj.CoreCompileInputs.cache
+C:\Users\Cyberadmin\Desktop\Conversion\NumberConversion\NumberConversion\obj\Release\NumberConversion.exe
+C:\Users\Cyberadmin\Desktop\Conversion\NumberConversion\NumberConversion\obj\Release\NumberConversion.pdb
